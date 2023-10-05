@@ -20,4 +20,3 @@ Thank you for considering contributing to the linked list section of our reposit
 - Make sure your code does not break existing functionality.
 
 Happy coding!
-
